@@ -1,0 +1,20 @@
+{
+  "location": {
+    "world": "world_the_end",
+    "x": -872.8625000119209,
+    "y": 110.0,
+    "z": 1033.300000011921,
+    "yaw": 6.4476366,
+    "pitch": 37.736538
+  },
+  "groups": [
+    {
+      "groupName": "default",
+      "contextMap": "{}"
+    }
+  ],
+  "operator": false,
+  "can-fly": false,
+  "walk-speed": 0.2,
+  "fly-speed": 0.1
+}

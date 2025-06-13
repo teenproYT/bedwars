@@ -1,0 +1,19 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-08-27 21:04:34 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:old_growth_pine_taiga": "2024-08-27 21:06:28 +0300",
+      "minecraft:river": "2024-08-27 21:05:22 +0300",
+      "minecraft:desert": "2024-08-27 21:04:57 +0300",
+      "minecraft:savanna": "2024-08-27 21:05:29 +0300",
+      "minecraft:plains": "2024-08-27 21:04:35 +0300"
+    },
+    "done": false
+  },
+  "DataVersion": 3463
+}

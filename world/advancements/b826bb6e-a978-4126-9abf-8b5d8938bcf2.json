@@ -1,0 +1,14 @@
+{
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2020-06-16 11:14:16 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2020-06-16 11:14:17 +0300"
+    },
+    "done": false
+  }
+}
