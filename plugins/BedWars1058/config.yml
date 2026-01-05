@@ -2,7 +2,7 @@
 # Documentation here: https://gitlab.com/andrei1058/BedWars1058/wikis/home
 
 serverType: MULTIARENA
-language: en
+language: ru
 disabled-languages:
 - your language iso here
 storeLink: https://www.spigotmc.org/resources/authors/39904/
@@ -57,8 +57,8 @@ countdowns:
   next-event-dragon-spawn: 600
   next-event-game-end: 120
 shout-cmd-cooldown: 30
-server-ip: mc.fnktoday.ru
-powered-by: BedWars1058
+server-ip: vikosiii.com
+powered-by: teen_pro_YT
 allow-hunger-depletion:
   waiting: false
   ingame: false
